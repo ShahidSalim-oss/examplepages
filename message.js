@@ -1,2 +1,3 @@
-// the hello world program
-console.log('Hello World');
+function msg(){  
+ alert("Hello from javascript");  
+}  
