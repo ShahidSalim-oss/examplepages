@@ -1,3 +1,1 @@
-function msg(){  
- alert("Hello from Pakistan");  
-}  
+console.log('Hi Shahid');
