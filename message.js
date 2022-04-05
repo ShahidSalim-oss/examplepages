@@ -1,3 +1,3 @@
 function msg(){  
- alert("Hello from javascript");  
+ alert("Hello from Pakistan");  
 }  
