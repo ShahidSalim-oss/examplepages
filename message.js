@@ -3,7 +3,7 @@ console.log('Hi from Pakistan and Germany. Shahid test');
 if (window.location.href.indexOf("franky") > -1) {
 } else if (window.location.href.indexOf("/product/") > -1) {
   console.log("product page");
-  let listItems = document.querySelectorAll('[data-foo="add-to-cart"]');
+  let listItems = document.querySelectorAll('[name="add-to-cart"]');
    console.log(listItems);
 } else if (window.location.href.indexOf("/product-category/") > -1) {
   console.log("category page");
